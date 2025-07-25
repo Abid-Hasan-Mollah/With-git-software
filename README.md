@@ -14,4 +14,9 @@ git status
 
 git Commit
 
+# Push git hub
+
+git push origin main
+
+
 
