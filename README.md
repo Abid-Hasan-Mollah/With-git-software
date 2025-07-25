@@ -10,4 +10,8 @@ git clone "https://github.com/Abid-Hasan-Mollah/With-git-software.git"
 # check status
 git status
 
+# git commit
+
+git Commit
+
 
